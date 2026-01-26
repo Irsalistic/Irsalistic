@@ -55,6 +55,7 @@ For more, check out my [repositories](https://github.com/Irsalistic?tab=reposito
 
 - **Email:** [arsalkhan963@gmail.com](mailto:arsalkhan963@gmail.com)  
 - **LinkedIn:** [Irsal Khan](https://www.linkedin.com/in/irsal-khan-b35a35150/)
+- **Medium:** [https://medium.com/@arsalkhan963]
 
 
 
