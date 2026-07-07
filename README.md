@@ -1,68 +1,68 @@
-# Hi there, I'm Irsal Khan 👋
+# Hi, I'm Irsal Khan
 
-Welcome to my GitHub profile! I'm an **AI Engineer** and a **Python Developer** specializing in **Computer Vision**, **Natural Language Processing (NLP)**, and **Web Applications**. With a passion for crafting efficient and scalable solutions, I enjoy leveraging technology to solve real-world problems.  
+```python
+class IrsalKhan:
+    role = "AI / ML Engineer"
+    location = "Islamabad, Pakistan"
+    focus = ["Computer Vision", "NLP", "Generative AI", "Production ML"]
+    stack = ["Python", "PyTorch", "FastAPI", "LangChain", "Stable Diffusion"]
+    currently = "Building HouseGen @ Imarat"
+```
 
----
-
-## 🛠️ Technologies & Tools  
-
-- **Programming Languages:** Python, JavaScript  
-- **Frameworks & Libraries:** Django, FastAPI, LangChain, TensorFlow, PyTorch, OpenCV, spaCy  
-- **Tools:** Docker, Redis, Selenium, BeautifulSoup  
-- **Version Control:** Git, GitHub  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-
----
-
-## 🌟 What I’m Currently Working On  
-
-- Developing web applications using **FastAPI** and **Streamlit**  
-- Building intelligent chatbots powered by **LangChain** and **LLaMA**  
-- Enhancing expertise in **Machine Learning** and **Backend Development**  
-- Exploring **Data Scraping** tools and techniques  
+I build things with Python and ML — from RAG chatbots and Stable Diffusion pipelines to real-time computer vision APIs. Most of my work lives here as open source.
 
 ---
 
-## 🏆 Projects  
+## Pinned work
 
-Here are some highlights from my projects:  
+| | Project | What it does |
+|---|---------|--------------|
+| 🎟️ | [**prize-bond-checker**](https://github.com/Irsalistic/prize-bond-checker) | CLI that checks Pakistani prize bonds against live draws. Optional LLM summaries. |
+| 🧩 | [**comfyui-dam-object-extractor**](https://github.com/Irsalistic/comfyui-dam-object-extractor) | ComfyUI node for object extraction and masking with DAM segmentation. |
+| 📄 | [**pdf_chat**](https://github.com/Irsalistic/pdf_chat) | Chat with PDFs — FastAPI, Ollama, Redis, Docker. |
+| 🎬 | [**AI_lip_syncing**](https://github.com/Irsalistic/AI_lip_syncing) | Lip sync + multi-language TTS over a FastAPI service. |
+| 🎨 | [**AI_sketch_to_art**](https://github.com/Irsalistic/AI_sketch_to_art) | Sketch → art via Stable Diffusion + ControlNet. |
+| 📝 | [**AI_Resume_Optimizer**](https://github.com/Irsalistic/AI_Resume_Optimizer) | Resume tuning against job descriptions using LLMs. |
 
-### 1. **Aging and De-Aging Application**  
-   - Transforms images to simulate aging or de-aging effects  
-   - Built using **FastAPI** and advanced AI models  
-
-### 2. **Google Maps Scraper**  
-   - Scrapes business information (name, phone, address, etc.) using Selenium and BeautifulSoup  
-   - Includes email extraction with the `emailfinder` library  
-
-### 3. **PDF Chatbot**  
-   - Integrates **LangChain** and **HuggingFace** for Retrieval-Augmented Generation (RAG)  
-   - Enables chat functionalities with **Ollama**  
-
-For more, check out my [repositories](https://github.com/Irsalistic?tab=repositories).  
+More in [repositories →](https://github.com/Irsalistic?tab=repositories)
 
 ---
 
-## 📖 Education  
+## Stack I use often
 
-- **BS in Computer Science**  
-  Abdul Wali Khan University Mardan  
-  (Graduated April 2022)  
-
----
-
-## 🤝 Connect With Me  
-
-- **Email:** [arsalkhan963@gmail.com](mailto:arsalkhan963@gmail.com)  
-- **LinkedIn:** [Irsal Khan](https://www.linkedin.com/in/irsal-khan-b35a35150/)
-- **Medium:** [https://medium.com/@arsalkhan963]
-
-
-
-### ⭐ Fun Fact  
-
-I strive to write **clean, understandable Python code** and share my learning journey through projects and collaborations.  
+```
+Python · PyTorch · TensorFlow · FastAPI · LangChain · RAG
+Stable Diffusion · ControlNet · ComfyUI · OpenCV · MediaPipe
+Docker · Redis · Chroma · Streamlit · HuggingFace · Ollama
+```
 
 ---
 
-**Feel free to explore my repositories and connect with me to collaborate on exciting projects! 🚀**
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Irsalistic&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsalistic&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irsalistic&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Elsewhere
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/irsal-khan-b35a35150"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@arsalkhan963"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:arsalkhan963@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Irsalistic&color=blueviolet&style=flat-square" alt="views" />
+</p>
+
+<p align="center"><sub>⭐ if something here helped you</sub></p>
